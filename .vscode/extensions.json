@@ -2,6 +2,7 @@
     "recommendations": [
         "waderyan.nodejs-extension-pack",
         "wscats.vue-extensionpack",
-        "sdras.vue-vscode-extensionpack"
+        "sdras.vue-vscode-extensionpack",
+        "formulahendry.docker-extension-pack"
     ]
 }

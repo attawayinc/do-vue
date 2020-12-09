@@ -1,9 +1,18 @@
 {
     "cSpell.words": [
+        "WORKDIR",
         "dbaeumer",
+        "devcontainer",
+        "dovue",
         "extensionpack",
         "sdras",
         "waderyan",
         "wscats"
+    ],
+    "cSpell.enableFiletypes": [
+        "dockerfile",
+        "vue",
+        "vue-html",
+        "vue-postcss"
     ]
 }
